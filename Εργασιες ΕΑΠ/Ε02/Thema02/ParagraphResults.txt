@@ -1,0 +1,8 @@
+The number of sentences in the given paragraph is: 1
+Sentence No:1 has 8 words.
+
+Paragraph with sorted words per sentence: 
+33 Consonants No:5 Number in is of sentence 
+
+Number of Vowels in sentence No:1 is 12
+Number of Consonants in sentence No:1 is 20
