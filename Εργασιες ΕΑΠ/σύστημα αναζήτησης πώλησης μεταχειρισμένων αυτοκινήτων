@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T11:00:44.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="6y_-OwoKOOVV750F_5-Q" type="github"><diagram name="Page-1" id="g9AcB2tVciRDHPX0CAN1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T11:29:42.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DBnCkQJJB430QVxfMg-9" version="21.0.2" type="github">
+  <diagram name="Page-1" id="g9AcB2tVciRDHPX0CAN1">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sibGhx_652ZlmpsWvnsW-10" value="Αποτελέσματα&lt;br&gt;&amp;nbsp;αναζήτησης" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sibGhx_652ZlmpsWvnsW-1" target="sibGhx_652ZlmpsWvnsW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-1" value="Σύστημα αναζήτησης αγγελιών για αγορά μεταχειρισμένων αυτοκινήτων" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-8" value="Αξιολόγηση αγγελιών" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sibGhx_652ZlmpsWvnsW-2" target="sibGhx_652ZlmpsWvnsW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="290" />
+              <mxPoint x="580" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-2" value="Διαχειριστές" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="282.5" width="85" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-5" value="Στοιχεία αναζήτησης,&lt;br&gt;εγγραφή" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sibGhx_652ZlmpsWvnsW-4" target="sibGhx_652ZlmpsWvnsW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="299" />
+              <mxPoint x="370" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-4" value="Χρήστης" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="290" width="80" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-7" value="Email , Password,&lt;br&gt;&amp;nbsp;στοιχεία αναζήτησης" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sibGhx_652ZlmpsWvnsW-6" target="sibGhx_652ZlmpsWvnsW-1">
+          <mxGeometry x="-0.5254" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="380" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-6" value="Μέλος" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-9" value="Χρήστης" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="450" width="80" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-13" value="Αποτελέσματα αναζήτησης,&lt;br&gt;απάντηση σε εκδήλωση ενδιαφέροντος,&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sibGhx_652ZlmpsWvnsW-12" target="sibGhx_652ZlmpsWvnsW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sibGhx_652ZlmpsWvnsW-12" value="Μέλη" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
