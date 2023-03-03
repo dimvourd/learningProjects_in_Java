@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T10:59:16.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="35_ZR74tB35TPGNH4Wyw" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T11:59:12.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lz3k3Vw6fdQOnWOpCCad" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1046" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRpgMA1zB9BugUx_Lz3O-1" value="&#39;Ελεγχος αγγελίας" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DRpgMA1zB9BugUx_Lz3O-1" value="Αξιολόγηση νέων αγγελιών" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="215" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DRpgMA1zB9BugUx_Lz3O-10" value="Αποδοχή" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DRpgMA1zB9BugUx_Lz3O-4" target="DRpgMA1zB9BugUx_Lz3O-1">
