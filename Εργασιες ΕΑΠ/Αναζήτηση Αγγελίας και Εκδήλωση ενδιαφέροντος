@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T12:00:20.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="L8mH0_fZlhrQndAxbcu0" type="github"><diagram name="Page-1" id="eTAvvSjt6TkSvegE1ZfK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T12:35:34.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="N07w8mahw02By5eBeqcX" version="21.0.2" type="github">
+  <diagram name="Page-1" id="eTAvvSjt6TkSvegE1ZfK">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-5" value="Λίστα αναρτήσεων" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqXoJlK_2e7FzEBJjNAI-1">
+          <mxGeometry y="5" relative="1" as="geometry">
+            <mxPoint x="290" y="255" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-9" value="Μήνυμα αποτυχίας &lt;br&gt;σύνδεσης με πωλητή,&lt;br&gt;στοιχεία επικονωνίας" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="yqXoJlK_2e7FzEBJjNAI-1" target="yqXoJlK_2e7FzEBJjNAI-6">
+          <mxGeometry x="0.0092" y="-18" relative="1" as="geometry">
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="263" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-11" value="Μήνυμα ενδιαφέροντος&lt;br&gt;ενδιαφερόμενου&amp;nbsp;&lt;br&gt;αγοραστή,&lt;br&gt;στοιχεία επικοινωνίας" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqXoJlK_2e7FzEBJjNAI-1" target="yqXoJlK_2e7FzEBJjNAI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-1" value="Αναζήτησης αγγελιών" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-3" value="αναζήτηση με στοιχεία&lt;br&gt;&amp;nbsp;αυτοκινήτου" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqXoJlK_2e7FzEBJjNAI-2" target="yqXoJlK_2e7FzEBJjNAI-1">
+          <mxGeometry x="-0.0026" y="20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="250" />
+              <mxPoint x="370" y="250" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-2" value="Μη πιστοποιημένοι χρήστες&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-7" value=",αναζήτησης αγγελιών,&lt;br&gt;μήνυμα ενδιαφέροντος" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqXoJlK_2e7FzEBJjNAI-6" target="yqXoJlK_2e7FzEBJjNAI-1">
+          <mxGeometry x="-0.2634" y="-20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-6" value="Πιστοποιημένοι χρήστες-αγοραστής" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqXoJlK_2e7FzEBJjNAI-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Πιστοποιημένοι χρήστες-πωλητής&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
